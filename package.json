@@ -1,0 +1,15 @@
+{
+  "name": "@blue3xp/react-native-webview",
+  "version": "0.0.1",
+  "description": "Webview bridge for react native",
+  "main": "index.js",
+  "repository": "https://github.com/blue3xp/react-native-webview-bridge",
+  "author": "blue3xp<blue3xp@163.com>",
+  "license": "MIT",
+  "private": false,
+  "peerDependencies": {
+  	"react": "*",
+  	"react-native": "*",
+    "react-native-webview": "*"
+  }
+}
